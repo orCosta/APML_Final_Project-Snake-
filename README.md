@@ -4,6 +4,7 @@ Gameplay
 # info
 
 Create different kind of learning agents for classic Snake game.
+
 Agent 1: Linear approximation, taking the 4 optional next actions as a vector, and learning and calculating the best weights vector.
 ![‏‏1](https://user-images.githubusercontent.com/44048156/61821905-075b5e80-ae61-11e9-9976-2f8606e0e517.JPG)
 
